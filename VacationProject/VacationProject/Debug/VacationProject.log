@@ -1,0 +1,5 @@
+﻿  VacationProject.cpp
+e:\프로그래밍\vacationproject\vacationproject\vacationproject.cpp(314): warning C4101: 'sSub2' :참조되지 않은 지역 변수입니다.
+e:\프로그래밍\vacationproject\vacationproject\vacationproject.cpp(315): warning C4101: 'sSub3' :참조되지 않은 지역 변수입니다.
+e:\프로그래밍\vacationproject\vacationproject\vacationproject.cpp(313): warning C4101: 'sSub1' :참조되지 않은 지역 변수입니다.
+  VacationProject.vcxproj -> E:\프로그래밍\VacationProject\Debug\VacationProject.exe
